@@ -37,7 +37,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #00aaff;
+  color: #29e361;
 }
 
 .menu-mobile {
@@ -52,7 +52,7 @@ nav a:hover {
 .hero {
   text-align: center;
   padding: 100px 20px;
-  background: linear-gradient(to right, #0077ff, #00aaff);
+  background: linear-gradient(to right, #29e361, #479451);
   color: white;
 }
 
@@ -90,7 +90,7 @@ textarea {
 form button {
   padding: 10px;
   border: none;
-  background: #0077ff;
+  background: #29e361;
   color: white;
   cursor: pointer;
   border-radius: 5px;
